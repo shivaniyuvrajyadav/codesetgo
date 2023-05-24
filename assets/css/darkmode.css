@@ -15,6 +15,7 @@ body.light{
     --color4:rgba(0,186,124);
     --bar:white;
     --footer:#f2f5f8;
+    
 }
 body.dark{
     --darkback:#243447;
